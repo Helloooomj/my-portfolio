@@ -1,8 +1,4 @@
-# Personal Website Starter Code
-
-This is a place for you to start building your personal website!
-
-### Project Requirements
+# Project Requirements
 Your project should:
 - Include one home HTML page that's all about you!
 - Include a navigation bar that is included on all your website's pages.
